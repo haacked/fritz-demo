@@ -1,7 +1,12 @@
 using System;
 
-public class Program {
-  public static void Main(string[] args) {
-     Console.WriteLine("Foo");
+namespace FritzDemo
+{
+  public class Program
+  {
+    public static void Main(string[] args)
+    {
+      Console.WriteLine("Foo");
+    }
   }
 }
